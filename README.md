@@ -47,32 +47,32 @@
 
 ## 🚀 Featured Projects
 
-### 🔴 [SYN Flood Mitigation System](https://github.com/MAK554267/your-repo)
+### 🔴 [SYN Flood Mitigation System](https://github.com/MAK554267/SYN-Flood-Mitigation)
 > **2nd Place — Techon Competition**
 Detects and mitigates SYN flood DDoS attacks in real time using packet analysis and adaptive rate limiting.
 `Python` `Scapy` `Networking` `Defense`
 
 ---
 
-### 📡 [Blackout 2.4](https://github.com/MAK554267/your-repo)
+### 📡 [Blackout 2.4](https://github.com/MAK554267/Blackout-2.4)
 > ESP32-based Wi-Fi deauthentication tool for wireless security research.
 `ESP32` `Wi-Fi` `Wireless Security` `C++`
 
 ---
 
-### 🦆 [BLE Rubber Ducky](https://github.com/MAK554267/your-repo)
+### 🦆 [BLE Rubber Ducky](https://github.com/MAK554267/BLE-Rubber-Ducky-with-without-Screen)
 > Bluetooth Low Energy HID attack device built on ESP32 — emulates keyboard payloads wirelessly.
 `ESP32` `BLE` `Hardware Hacking` `HID`
 
 ---
 
-### 💀 [MBR Bootkit + Ransomware Simulation](https://github.com/MAK554267/your-repo)
+### 💀 [MBR Bootkit + Ransomware Simulation](https://github.com/MAK554267/Bootkit-Development-MBR-Infection-and-Ransomware-Simulation)
 > Educational simulation of Master Boot Record manipulation and ransomware behavior for malware research.
 `Assembly` `C` `Malware Analysis` `Forensics`
 
 ---
 
-### 🛡️ [WAF Deployment with ModSecurity](https://github.com/MAK554267/your-repo)
+### 🛡️ [WAF Deployment with ModSecurity](https://github.com/MAK554267/Secure-Web-Application-Deployment-WAF-)
 > Dockerized Web Application Firewall using Apache + ModSecurity + OWASP CRS against DVWA.
 `Docker` `Apache` `ModSecurity` `OWASP` `Blue Team`
 
