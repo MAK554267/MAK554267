@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.svg" width="500"/>
-</div>
+
 
 ### Muhammad Azfar Waqas (Mak)
 **Cybersecurity Student · Offensive Security · Hardware Hacking · Digital Forensics**
