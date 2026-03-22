@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" width="500"/>
+  <img src="logo.png" width="500"/>
 
 
 ### Muhammad Azfar Waqas (Mak)
